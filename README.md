@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-link para o site do projeto: https://kenzie-warmup.vercel.app/
+link para o site da aplicação: https://kenzie-warmup.vercel.app/
 
 ## Available Scripts
 
